@@ -21,7 +21,7 @@ function App() {
   return (
     <>
       <div className="container">
-        <h1 className="text-center">Image Search App in React</h1>
+        <h1 className="text-center">Image Search App with React</h1>
         <input
           type="text"
           placeholder="Search Images....."
